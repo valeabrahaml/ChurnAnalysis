@@ -32,6 +32,5 @@ Ensure you have the following Python libraries installed:
 - `pandas`: For data manipulation and analysis.
 - `numpy`: For numerical computing.
 - `matplotlib` and `seaborn`: For data visualization.
-- `scikit-learn`: For implementing machine learning models.
 
-You can install these libraries using pip:
+
